@@ -835,7 +835,6 @@ img{
 
 .contact-div{
     display: flex;
-    justify-content: space-between;
     align-items: center;
     margin-left: 122px;
 }
